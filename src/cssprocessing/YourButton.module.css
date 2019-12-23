@@ -1,0 +1,18 @@
+.btn{
+    padding: 10px 20px;
+    background:red;
+    color:#fff;
+    
+}
+.btn-text{
+    color:red;
+    background:#fff;
+    padding:10px;
+    display: block;
+}
+.btnText{
+    color:red;
+    background:#fff;
+    padding:10px;
+    display: block;
+}
